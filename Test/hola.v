@@ -10,12 +10,12 @@ module hola_tb;
     hola my_hola(.a(A), .b(B));
 
     initial begin
-        $dumpfile("hola.vcd");
-        $dumpvars(0, hola_tb);
         A = 0;
         #10 A = 1;
         #10 A = 0;
         #10 A = 1;
         #10 A = 0;
+        $dumpfile("hola.vcd");
+        $dumpvars(0, hola_tb);
     end
 endmodule

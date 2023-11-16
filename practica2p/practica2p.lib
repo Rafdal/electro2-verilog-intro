@@ -1,0 +1,211 @@
+timestamp=1667495621812
+
+[~A]
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/BCD_to_7seg.v=0*529764*530540
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/FlipFlop SR.v=0*535479*536079
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/FlipFlopT.v=0*522614*523292
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/RAM.v=0*531781*532421
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/ROM.v=0*510244*511108
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/decoder.v=0*527299*528536
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/lucesgiro.v=0*428384*429671
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/multiplexor_8_2.v=0*75514*76711
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/multiplexor_8_2.v_priority_encoder.v=0*162628*164228
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/multiplexor_8_2.v_priority_encoder.v_shift register SIPO.v=0*177694*179620
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/multiplexor_8_2.v_priority_encoder.v_shift register SIPO.v_shift register SISO.v=0*199416*201604
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/multiplexor_8_2.v_priority_encoder.v_shift register SIPO.v_shift register SISO.v_lucesgiro.v=0*439166*442166
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/multiplexor_8_2.v_priority_encoder.v_shift register SIPO.v_shift register SISO.v_lucesgiro.v_ROM.v=0*488202*491560
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/multiplexor_8_2.v_priority_encoder.v_shift register SIPO.v_shift register SISO.v_lucesgiro.v_ROM.v_FlipFlopT.v=0*503015*506497
+C:/Users/crist/Desktop/3A1Q/Electrónica III/2do Parcial/Practica_2P/practica2p/src/shift register SIPO.v=0*195969*196737
+LastVerilogToplevel=FlipFlopSR
+ModifyID=135
+Version=74
+
+[~MFT]
+0=6|0practica2p.mgf|536079|308851
+1=4|1practica2p.mgf|1653383|1616461
+3=8|3practica2p.mgf|1405511|1369225
+
+[$root]
+A/$root=22|||1*1652865
+BinW64/$root=3*1404816
+SLP=3*1404931
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c73a565f2ade592f8ac1c68f484c92162c7fde1d7fea4a261555fbbd5b9e130e
+
+[Deco4to16]
+A/Deco4to16=22|../src/decoder.v|2|1*1641479
+BinW64/Deco4to16=3*1394848
+R=../src/decoder.v|2
+SLP=3*1395837
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|711a22ad7fa46b5ee1b4adf63488c14ab2d707710762b88e1c82169cdacdc56567418970a71cfd9f63f1ccf477cacbf4
+
+[Deco_138]
+A/Deco_138=22|../src/decoder.v|81|1*1645615
+BinW64/Deco_138=3*1399366
+R=../src/decoder.v|81
+SLP=3*1400180
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|9c636554901ea4c4871410d2a5e35683956a35f5d0427cc66b93dc6667bbfd36007ff27dc4f9543537b5805098463956
+
+[FlipFlopSR]
+A/FlipFlopSR=22|../src/FlipFlop SR.v|1|1*1653383
+BinW64/FlipFlopSR=3*1404999
+R=../src/FlipFlop SR.v|1
+SLP=3*1405511
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|15ae147a549a94f7bafd9c02b395b3ffab8c2a786eb4cc07a52a5afa9d7e6b45c30f457ddcadbecfe8628b83c358ff2f
+
+[FlipFlopT]
+A/FlipFlopT=22|../src/FlipFlopT.v|1|1*1634072
+BinW64/FlipFlopT=3*1387717
+R=../src/FlipFlopT.v|1
+SLP=3*1388309
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|4d3628cadce85ffba50775a8f923f255a30025de53f2eeed202138bbfcd65f144d820d78207430f5f06637a1b7ddc9bd
+
+[ROM_3inx8out]
+A/ROM_3inx8out=22|../src/ROM.v|13|1*1616943
+BinW64/ROM_3inx8out=3*1372857
+R=../src/ROM.v|13
+SLP=3*1373622
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|3ca9824b809cea9c64826c0a8e3ec64d506bc39ee812ffdefd9c247a2749e9911da241f88233d661b4da8ba00b527fe6
+
+[SevenSegDec]
+A/SevenSegDec=22|../src/BCD_to_7seg.v|1|1*1647282
+BinW64/SevenSegDec=3*1400874
+R=../src/BCD_to_7seg.v|1
+SLP=3*1401820
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|70431e914f440517f11ee76daec9364763e7d51ba7e256a629304ba901553732d866457dd5e3823345ac0e19c85bedd4
+
+[Test]
+A/Test=22|../src/decoder.v|40|1*1642634
+BinW64/Test=3*1396546
+R=../src/decoder.v|40
+SLP=3*1398635
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f46b564c3ef88fe1c883b891ccb8cc03ce1d8c9dbd0396f81f86b468f6f9430f
+
+[lucesgiro]
+A/lucesgiro=22|../src/lucesgiro.v|13|1*1605163
+BinW64/lucesgiro=3*1361127
+R=../src/lucesgiro.v|13
+SLP=3*1362672
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|d43f400fc696f0cf0ee9e46618aab7e6f0eaefafca5d32034d98dee676d1b2c3b9646bce274fb6a5f77df91fcb885aca
+
+[multiplexor_8_2]
+A/multiplexor_8_2=22|../src/multiplexor_8_2.v|25|1*1589119
+BinW64/multiplexor_8_2=3*1346839
+R=../src/multiplexor_8_2.v|25
+SLP=3*1348747
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|d3e13a4d68e9ed26e3ea615a3c2024f88996c49729661e6baa3f0c84d7fbad5b028e612c82962d0bfb49bc8d2fdd8e26
+
+[priority_encoder]
+A/priority_encoder=22|../src/priority_encoder.v|25|1*1596756
+BinW64/priority_encoder=3*1352669
+R=../src/priority_encoder.v|25
+SLP=3*1353821
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|ab7e75a478de399a334c431adbd90e9a27cd5bc6424bdbd7660753a8b6ef5d2c442dd7d92864af6e76afd0c99f8752bc
+
+[ram]
+A/ram=22|../src/RAM.v|1|1*1649387
+BinW64/ram=3*1402603
+R=../src/RAM.v|1
+SLP=3*1403393
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|a936fc2a703b3f48871772595baaafebc1900250807c399167f489eefd21fa1b
+
+[shift_register]
+A/shift_register=22|../src/shift register SIPO.v|1|1*577049
+BinW64/shift_register=3*431596
+R=../src/shift register SIPO.v|1
+SLP=3*432228
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|8b0936a0db3d513519093826821bfa451c298ca80f5e6fe41f050e165e937210777ee4581d739beb7736c41a5f55f3c8
+
+[shift_register_SIPO]
+A/shift_register_SIPO=22|../src/shift register SIPO.v|1|1*1600114
+BinW64/shift_register_SIPO=3*1355689
+R=../src/shift register SIPO.v|1
+SLP=3*1356326
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|8b0936a0db3d513519093826821bfa4571ebc8c5db36afa0cad52d04d5505d7bfa32c586065098f789b916dd0e47faf9
+
+[shift_register_SISO]
+A/shift_register_SISO=22|../src/shift register SISO.v|1|1*1602689
+BinW64/shift_register_SISO=3*1358491
+R=../src/shift register SISO.v|1
+SLP=3*1359124
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|8b0936a0db3d513519093826821bfa458caff90ed8fc63d2662dde5cece46dd9299e049fc9d22e88c5622a2681b8df1b
+
+[test_FlipFlopT]
+A/test_FlipFlopT=22|../src/FlipFlopT.v|18|1*1635226
+BinW64/test_FlipFlopT=3*1388595
+R=../src/FlipFlopT.v|18
+SLP=3*1389605
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|839c3b4575b603daeb80b49d822014b1007d730503c80f9d68830f70f844400a42f9ee894a70900273fb92a4b9e66b21
+
+[test_ROM]
+A/test_ROM=22|../src/ROM.v|46|1*1618303
+BinW64/test_ROM=3*1374154
+R=../src/ROM.v|46
+SLP=3*1375369
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|69675bc8b9894fc607e40eda3c0386026cab5f0f5b972aadaef8a88bb2029930bd31c3104e96f9e7bbd6a39b57ec9097
+
+[test_encoder]
+A/test_encoder=22|../src/priority_encoder.v|65|1*1598376
+BinW64/test_encoder=3*1354454
+R=../src/priority_encoder.v|65
+SLP=3*1355403
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|51df16e6ab1516ed124eb95f5e8303b99c8bc1f2744fe6dd9a603297811d24654260715d9c5590444e54b706a30befac
+
+[test_lucesgiro]
+A/test_lucesgiro=22|../src/lucesgiro.v|131|1*1607901
+BinW64/test_lucesgiro=3*1363870
+R=../src/lucesgiro.v|131
+SLP=3*1365295
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|62afe3c1172e1a4d73653b5447a2e9e7f07ec74afc8d86a5b25bb8208e1f2ee0b78a5c413a33529e70bb80beb7ddfc6b
+
+[test_multiplexor]
+A/test_multiplexor=22|../src/multiplexor_8_2.v|72|1*1592839
+BinW64/test_multiplexor=3*1349694
+R=../src/multiplexor_8_2.v|72
+SLP=3*1351831
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|6b0287c3e1e123a28a1bc42d9959ae6dfa81ca844e17c268804c06c126ec1122442dd7d92864af6e76afd0c99f8752bc
+
+[test_shift_register]
+A/test_shift_register=22|../src/shift register SIPO.v|16|1*564271
+BinW64/test_shift_register=3*420736
+R=../src/shift register SIPO.v|16
+SLP=3*422039
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|291a9afa76c7e4393e5db7b55698bab294eb88a55023821f81cb1b4670eee1e293f68a71a18ec42db3658e57df8639b5
+
+[test_shift_register_SIPO]
+A/test_shift_register_SIPO=22|../src/shift register SIPO.v|16|1*1601312
+BinW64/test_shift_register_SIPO=3*1356646
+R=../src/shift register SIPO.v|16
+SLP=3*1357954
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|291a9afa76c7e4393e5db7b55698bab29e32411a6dab153eb69834401f79eefe48b6214fd7f4c06cf02315aeeca6be90c3184ffa8b3bfb8c956d4add46e01de5
+
+[test_shift_register_SISO]
+A/test_shift_register_SISO=22|../src/shift register SISO.v|21|1*1603897
+BinW64/test_shift_register_SISO=3*1359466
+R=../src/shift register SISO.v|21
+SLP=3*1360660
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|291a9afa76c7e4393e5db7b55698bab2cd575557a3c7a58166c381d712c27dbe3fdefa84a81859585693f62e0ae62f266afdd7cd553a944d152e35a82e9274d2
+
+[~U]
+$root=12|0*534879|
+Deco4to16=12|0*526688|
+Deco_138=12|0*527080||0x10
+FlipFlopSR=12|0*535253||0x10
+FlipFlopT=12|0*522220|
+ROM_3inx8out=12|0*509838|
+SevenSegDec=12|0*529515||0x10
+Test=12|0*526916||0x10
+lucesgiro=12|0*501918|
+multiplexor_8_2=12|0*500166|
+priority_encoder=12|0*500635|
+ram=12|0*531555||0x10
+shift_register=12|0*177262|
+shift_register_SIPO=12|0*501052||0x10
+shift_register_SISO=12|0*501493|
+test_FlipFlopT=12|0*522438||0x10
+test_ROM=12|0*510070||0x10
+test_encoder=12|0*500872||0x10
+test_lucesgiro=12|0*502224||0x10
+test_multiplexor=12|0*500450||0x10
+test_shift_register=12|0*173268||0x10
+test_shift_register_SIPO=12|0*501297||0x10
+test_shift_register_SISO=12|0*501721||0x10

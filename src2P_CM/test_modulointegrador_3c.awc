@@ -1,0 +1,52 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="3003c88b9d493f5f6463e067d6005400">test_modulointegrador_3c.asdb</database>
+    </databases>
+    <gridshown/>
+    <signallists>
+        <signallist id="0">
+        <signal>/modulo_ej3/clk</signal>
+        <signal>/modulo_ej3/ena</signal>
+        <signal>/modulo_ej3/reset</signal>
+        <signal>/modulo_ej3/ser_in</signal>
+        <signal>/modulo_ej3/A1</signal>
+        <signal>/modulo_ej3/A0</signal>
+        <signal>/modulo_ej3/GS</signal>
+        <signal>/modulo_ej3/EO</signal>
+        <signal>/modulo_ej3/par_out</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="0" end_time="97527" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="95000" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>
